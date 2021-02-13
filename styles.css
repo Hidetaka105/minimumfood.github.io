@@ -1,0 +1,170 @@
+
+
+header {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    font-family: Helvetica,Arial;
+    color: orangered;
+    text-shadow: 10px 5px 2px rgba(0, 0, 0, 0.1);
+    margin:0;
+}
+
+.maegaki {
+    font-size: 18px;
+    text-align: center;
+    background-image: url(img/pakuchi1.jpg);
+    background-position: center;
+    width: 100%;
+    min-height: 100vh;
+    color: white
+}
+
+body{
+    margin : 0;
+    background-color: burlywood;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    font-size: 20px;
+    background-color: lightsalmon;
+    padding: 5px;
+    margin: 0;
+}
+
+nav li {
+    display: block;
+    padding-left: 0;
+    margin: auto;
+    float: left;
+
+}
+
+.food {
+    margin-left: 10px;
+}
+
+.namatamago {
+    margin-right: 10;
+    margin-left: 0;
+    float: left;
+}
+
+.egg1 {
+    float: middle;
+    margin: 3px;
+    height: 300px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.egg2 {
+    clear: both;
+    float: left;
+    margin-left: 0;
+    margin-right: 40px;
+    height: 300px;
+    width: 720px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.yudetamago {
+    float: middle;
+    margin-top: 40px;
+    margin-bottom: 16px;
+}
+
+.aojirupi {
+    float: left;
+    margin-left: 0;
+    margin-right: 40px;
+}
+
+.aojiru h2{
+    margin: 20px 0;
+}
+
+.aojiru1 {
+    float: middle;
+    margin-top: 20px;
+    margin-bottom: 1px;
+    height: 300px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.muneniku {
+    clear: both;
+}
+
+.muneniku1 {
+    clear: both;
+    float: left;
+    margin-right: 0;
+    margin-left: 10;
+    margin-right: 40px;
+    height: 300px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.munenikupi {
+    float: middle;
+    margin-top: 20px;
+    margin-bottom: 16px;
+}
+
+.sabakanpi {
+    float: left;
+    margin-left: 0;
+    margin-right: 40px;
+}
+
+.sabakan1 {
+    float: middle;
+    margin-top: 20px;
+    margin-bottom: 1px;
+    height: 300px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.tansui {
+    clear: both;
+}
+
+.tansui1 {
+    float: left;
+    margin-right: 0;
+    margin-left: 10;
+    margin-right: 40px;
+    height: 300px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+.blackpi {
+    float: left;
+    margin-left: 0;
+    margin-right: 40px;
+}
+
+.black1 {
+        float: middle;
+        margin-top: 40px;
+        margin-bottom: 1px;
+}
+
+.saigo {
+    clear: both;
+    text-align: center;
+    background-image:url('img/thai1.jpg');
+    background-position: center;
+}
+
+.profile {
+    text-align: center;
+}
